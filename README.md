@@ -1,7 +1,6 @@
 # alfred-engineer-homeru-neko-worklow
 
-<img width="565" alt="preview" src="https://user-images.githubusercontent.com/875231/33556263-9e98259a-d946-11e7-9325-bc6179095a55.png">
-
+<img width="564" alt="2017-12-05 1 19 23" src="https://user-images.githubusercontent.com/875231/33563101-6536f074-d95a-11e7-9e9b-5218a205161b.png">
 
 ## Key Combinations
 
