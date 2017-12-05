@@ -22,7 +22,7 @@ var images = map[string][]string{
 	"12": {"sugoi", "amazing"},
 	"13": {"arigatougozaimasu", "thank you"},
 	"14": {"tasukarimasu"},
-	"15": {"ryokai desu"},
+	"15": {"ryokai desu", "ok"},
 	"16": {"onegaishimasu"},
 	"17": {"yarushikanai"},
 	"18": {"osushi dozo"},
